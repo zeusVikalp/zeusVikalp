@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeusvikalp&label=Profile%20views&color=0e75b6&style=flat" alt="zeusvikalp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeusvikalp" alt="zeusvikalp" /></a> </p>
+<p>Enthusiastic and passionate aspiring full-stack developer with a specialization in MERN stack. A team player who is dedicated to building websites using the best UI/UX designs. Looking forward to utilizing my skills in a challenging work environment.</p>
 
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School.**
 
