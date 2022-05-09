@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vikalpdwivedi9450@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SnQ_n0sXPj_acDfKydxskpBzZsG_obnb/edit?usp=sharing&ouid=100069485280347523729&rtpof=true&sd=true](https://docs.google.com/document/d/1SnQ_n0sXPj_acDfKydxskpBzZsG_obnb/edit?usp=sharing&ouid=100069485280347523729&rtpof=true&sd=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
