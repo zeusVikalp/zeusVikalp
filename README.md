@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School.**
 
-- 👨‍💻 All of my projects are available at [https://vikalp-dwivedi.netlify.app/](https://bejewelled-otter-43ad50.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vikalp-dwivedi.netlify.app/](https://vikalp-dwivedi.netlify.app/)
 
 - 📫 How to reach me **vikalpdwivedi9450@gmail.com**
 
