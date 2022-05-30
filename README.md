@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeusvikalp&label=Profile%20views&color=0e75b6&style=flat" alt="zeusvikalp" /> </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School.**
 
 - 👨‍💻 All of my projects are available at [https://vikalp-dwivedi.netlify.app/](https://vikalp-dwivedi.netlify.app/)
