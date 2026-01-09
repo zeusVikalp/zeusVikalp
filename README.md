@@ -5,7 +5,7 @@
 
 <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School.**
+- 🌱 Currently I am  **Senior Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://vikalp-dwivedi.netlify.app/](https://vikalp-dwivedi.netlify.app/)
 
