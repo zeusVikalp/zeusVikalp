@@ -7,8 +7,6 @@
 
 - 🌱 Currently I am  **Senior Full Stack Developer** at Comviva Technologies
 
-- 👨‍💻 All of my projects are available at [https://vikalp-dwivedi.netlify.app/](https://vikalp-dwivedi.netlify.app/)
-
 - 📫 How to reach me **vikalpdwivedi9450@gmail.com**
 
 - ⚡ Fun fact **I love to play football**
